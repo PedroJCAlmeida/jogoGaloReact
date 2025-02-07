@@ -63,7 +63,7 @@ O Tic-Tac-Toe é um projeto simples criado com React.js que simula o famoso jogo
 
 Caso tenha alguma dúvida ou sugestão, entre em contato:
 
-📧 pedrojoaocarvalhoalmeidagmail.com
+📧 pedrojoaocarvalhoalmeida@gmail.com
 
 🔗 LinkedIn http://linkedin.com/in/pedro-j-c-almeida
 
